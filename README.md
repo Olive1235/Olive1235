@@ -1,10 +1,10 @@
 ## Hi, I'm Olive 👋
 
-🧠 Cybersecurity student at Per Scholas<br/>
+🧠 Cybersecurity professional at digital realty<br/>
 🎨I protect data and detect network traffic<br/>
 
 # 💫 About Me:
-I'm a cybersecurity student at per scholas<br>i'm working on a wifi sniffling project
+I'm a cybersecurity professional<br>i'm working on a wifi sniffling project
 
 
 # 💻 Tech Stack:
